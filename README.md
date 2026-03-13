@@ -62,7 +62,7 @@ material-strength-analysis
 Clone the repository:
 
 ```id="gxx3tn"
-git clone https://github.com/yourusername/main.git
+git clone https://github.com/yourusername/GearStudio.git
 ```
 
 Navigate to the project folder:
