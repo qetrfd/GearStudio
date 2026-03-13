@@ -68,13 +68,13 @@ git clone https://github.com/yourusername/material-strength-analysis.git
 Navigate to the project folder:
 
 ```id="9u2gjj"
-cd material-strength-analysis
+cd GearStudio
 ```
 
 Run the program:
 
 ```id="dr42tb"
-python strength_analysis.py
+python main.py
 ```
 
 ---
