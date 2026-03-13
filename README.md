@@ -48,10 +48,14 @@ These methods help determine how stable or variable the results of a material te
 # Project Structure
 
 ```id="s7nt2u"
-material-strength-analysis
+GearStudio
 │
-├── strength_analysis.py
-├── data.json
+├── main.py
+├── app.py
+├── commands.py
+├── gear_math.py
+├── gear_scene.py
+├── requirements.txt
 └── README.md
 ```
 
